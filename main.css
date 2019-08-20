@@ -1,0 +1,29 @@
+body{
+background-color: #9f3f1f;
+}
+#sectb{
+background-color: #f50700;
+width: 19%;
+position: absolute;
+left: 0px;
+top: 101px;
+}
+#secta{
+background-color: #00f529;
+width: 80%;
+position: absolute;
+right: 0px;
+top: 101px;
+}
+#sectc{
+background-color: #00f529;
+width: 100%;
+position: absolute;
+top: 480px;
+}
+
+.header{
+position: absolute;
+left: 0px;
+top: 1px;
+}
